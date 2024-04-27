@@ -1,0 +1,12 @@
+{
+  "name": "find_missed_numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findTwoMissedNumbers.Ologn.js",
+  "scripts": {
+    "start": "node findMissedNumbers.On.js && node findTwoMissedNumbers.Ologn.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

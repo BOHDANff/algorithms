@@ -1,5 +1,5 @@
 // simple function which could found any amount of missed numbers in sorted array
-// Complexity of algorithm is linear - O(n, j) where n - is arr length and j - is amount of missed numbers
+// Complexity of algorithm is linear - O(n*j) where n - is arr length and j - is amount of missed numbers
 // In the case of two missed numbers complexity is simple O(n)
 function findMissedNumbers(arr) {
   const missedNumbers = [];
